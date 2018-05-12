@@ -1,0 +1,34 @@
+_repo: Paisagens-da-China-e-do-Jap-o_25537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moraes, Wenceslau de
+    aliases:
+    - Morais, Wenceslau de
+    - De Sousa Moraes, Wenceslau José
+    - Moraes, Wenceslau José de Sousa
+    - Moraes, Wenceslau Jose de Sousa
+    - Sousa Moraes, Wenceslau José de
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '31404'
+    url: http://www.gutenberg.org/2009/agents/31404
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2008-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25537'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Civilization'
+- !lcc 'DS'
+- !lcsh 'Japan -- Civilization'
+title: Paisagens da China e do Japão
+url: http://www.gutenberg.org/ebooks/25537
