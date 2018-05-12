@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '31404'
     url: http://www.gutenberg.org/2009/agents/31404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25537#Paisagens-da-China-e-do-Jap-o
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2008-05-20'
 gutenberg_type: Text
